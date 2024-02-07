@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1682492822 source:c:\users\accueil\desktop\uniwersytet\podstawy programowania\projekty\projekt 1\projektpp\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<iomanip>
+

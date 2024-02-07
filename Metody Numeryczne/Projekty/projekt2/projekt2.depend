@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1683051918 source:c:\users\accueil\desktop\uniwersytet\metody numeryczne\projekty\projekt2\main.cpp
+	<iostream>
+	<iomanip>
+	<string.h>
+
